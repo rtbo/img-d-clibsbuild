@@ -1,0 +1,7 @@
+build/*
+install/*
+clibs/*
+clibs-windows-x86-dmd/*
+
+
+*.swp
